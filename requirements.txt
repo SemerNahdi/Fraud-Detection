@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+peft
+fastapi
+uvicorn
+pydantic
+shap
+scikit-learn
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+textstat
