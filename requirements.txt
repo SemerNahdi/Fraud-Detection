@@ -13,3 +13,10 @@ seaborn
 nltk
 wordcloud
 textstat
+datasets
+transformers
+tldextract
+python-dotenv
+emoji
+beautifulsoup4
+sentence_transformers
